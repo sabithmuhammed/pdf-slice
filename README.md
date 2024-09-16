@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/pdf.slice.git
+   git clone [https://github.com/your-repo/pdf.slice.git](https://github.com/sabithmuhammed/pdf-slice.git)
    cd pdf.slice
    ```
 
@@ -37,7 +37,7 @@
 
 4. Open your browser and go to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Usage
