@@ -53,7 +53,7 @@ const ShowPages = ({
                 }
                 error={
                     <div className=" absolute top-0 left-0 right-0 bottom-0 flex h-dvh flex-col justify-center items-center ">
-                        <WarningOutlined className="text-xl" />
+                        <WarningOutlined className="text-2xl text-red-500" />
                         <p className="text-white">Error loading pdf</p>
                     </div>
                 }
